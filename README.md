@@ -5,8 +5,8 @@ This module required the building of several maps using an API call to the USGS 
 
 ![map_1.png](https://github.com/Brooks2210/Mapping_Earthquakes/blob/main/map_1.png)  
 
-### Resources
-**Utilities**: VSCode, Javascript, CSS, HTML, GeoJSON data<br/>
+### Utilities
+VSCode, Javascript, CSS, HTML, GeoJSON data<br/>
 
 ![map_2.png](https://github.com/Brooks2210/Mapping_Earthquakes/blob/main/map_2.png)
 
